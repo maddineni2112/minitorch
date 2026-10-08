@@ -1,0 +1,7 @@
+numpy
+torch
+pytest
+hypothesis
+streamlit
+plotly
+networkx
